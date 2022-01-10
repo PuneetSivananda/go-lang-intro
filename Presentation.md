@@ -22,8 +22,8 @@ please prepare laptop or smartphone to join!
 
 </h1>
 - Front-end developer
-- VSCode :heart: 
-- I use tabs. :cat: 
+- VSCode ❤️ 
+- I use tabs. 🐱
 
 \r?\n---\r?\n
 ---
